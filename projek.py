@@ -65,3 +65,5 @@ async def sampah(ctx, *, item : str=None):
 
     else:
         await ctx.send(f'❓ `{item}` tidak ditemukan dalam daftar sampah.')
+
+bot.run('TAMBAHKAN TOKENMU DISINI')
