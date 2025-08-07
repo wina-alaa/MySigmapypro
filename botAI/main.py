@@ -84,4 +84,5 @@ async def classify(ctx):
         await ctx.send('kamu tidak melampirkan apa apa!')
 
 
-bot.run('MTM0MjExNDM3NzM2ODYwNDcxMg.GzXJHA.7XiFlH3Y86WHe5jf9n_gOsbpGwwfRveP4sWygU')
+
+bot.run('token')
